@@ -1,0 +1,6 @@
+{
+  "name": "NSE & BSE Stock Market Analyst",
+  "description": "Expert Indian equities & F&O derivatives intelligence platform providing deep fundamental health, technical structure (EMAs, RSI), Option Trading Signals (Greeks, PCR, Max Pain, Defined-Risk Spreads), and SEBI-compliant market research for NSE/BSE stocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
